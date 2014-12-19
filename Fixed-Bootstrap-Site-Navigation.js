@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name			Bootstrap Site Navigation Userscript
-// @homepage		https://github.com/anthonycl/Bootstrap-Site-Navigation-Userscript
+// @namespace		https://github.com/anthonycl
 // @version			0.1
 // @description		Greasemonkey/Tampermonkey Userscript automatically fix the bootstrap site's navigation to the top as you scroll.
 // @author			Anthony Fulginiti <anthony@cliklabs.com>
